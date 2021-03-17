@@ -1,3 +1,3 @@
 #Activities and intents
-![](screenrecord2.gif)
+![](screenrecord1.gif)
 
