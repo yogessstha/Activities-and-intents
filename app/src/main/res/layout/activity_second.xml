@@ -37,7 +37,7 @@
         android:layout_marginRight="16dp"
         android:text="@string/button_second"
         android:onClick="returnReply"
-        android:visibility="invisible"
+
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintRight_toRightOf="parent" />
 
@@ -50,7 +50,7 @@
         android:layout_marginStart="8dp"
         android:ems="10"
         android:hint="@string/editText_second"
-        android:visibility="invisible"
+
         android:inputType="textLongMessage"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/button_second"
