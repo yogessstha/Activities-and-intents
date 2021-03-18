@@ -1,0 +1,4 @@
+ACTIVITIES AND INTENTS
+## CODING CHALLENGE
+
+![](./screenrecord1.gif)
